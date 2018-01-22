@@ -1,0 +1,11 @@
+c:\users\julitogtu\source\repos\DemoRabbitMQ\DemoRabbitMQ\bin\Debug\netcoreapp2.0\DemoRabbitMQ.deps.json
+c:\users\julitogtu\source\repos\DemoRabbitMQ\DemoRabbitMQ\bin\Debug\netcoreapp2.0\DemoRabbitMQ.runtimeconfig.json
+c:\users\julitogtu\source\repos\DemoRabbitMQ\DemoRabbitMQ\bin\Debug\netcoreapp2.0\DemoRabbitMQ.runtimeconfig.dev.json
+c:\users\julitogtu\source\repos\DemoRabbitMQ\DemoRabbitMQ\bin\Debug\netcoreapp2.0\DemoRabbitMQ.dll
+c:\users\julitogtu\source\repos\DemoRabbitMQ\DemoRabbitMQ\obj\Debug\netcoreapp2.0\DemoRabbitMQ.csprojResolveAssemblyReference.cache
+c:\users\julitogtu\source\repos\DemoRabbitMQ\DemoRabbitMQ\obj\Debug\netcoreapp2.0\DemoRabbitMQ.csproj.CoreCompileInputs.cache
+c:\users\julitogtu\source\repos\DemoRabbitMQ\DemoRabbitMQ\obj\Debug\netcoreapp2.0\DemoRabbitMQ.AssemblyInfoInputs.cache
+c:\users\julitogtu\source\repos\DemoRabbitMQ\DemoRabbitMQ\obj\Debug\netcoreapp2.0\DemoRabbitMQ.AssemblyInfo.cs
+c:\users\julitogtu\source\repos\DemoRabbitMQ\DemoRabbitMQ\bin\Debug\netcoreapp2.0\DemoRabbitMQ.pdb
+c:\users\julitogtu\source\repos\DemoRabbitMQ\DemoRabbitMQ\obj\Debug\netcoreapp2.0\DemoRabbitMQ.dll
+c:\users\julitogtu\source\repos\DemoRabbitMQ\DemoRabbitMQ\obj\Debug\netcoreapp2.0\DemoRabbitMQ.pdb
