@@ -1,0 +1,11 @@
+C:\Users\Julitogtu\source\repos\AspnetCorePatch\AspnetCorePatch\bin\Debug\netcoreapp2.0\AspnetCorePatch.deps.json
+C:\Users\Julitogtu\source\repos\AspnetCorePatch\AspnetCorePatch\bin\Debug\netcoreapp2.0\AspnetCorePatch.runtimeconfig.json
+C:\Users\Julitogtu\source\repos\AspnetCorePatch\AspnetCorePatch\bin\Debug\netcoreapp2.0\AspnetCorePatch.runtimeconfig.dev.json
+C:\Users\Julitogtu\source\repos\AspnetCorePatch\AspnetCorePatch\bin\Debug\netcoreapp2.0\AspnetCorePatch.dll
+C:\Users\Julitogtu\source\repos\AspnetCorePatch\AspnetCorePatch\bin\Debug\netcoreapp2.0\AspnetCorePatch.pdb
+C:\Users\Julitogtu\source\repos\AspnetCorePatch\AspnetCorePatch\obj\Debug\netcoreapp2.0\AspnetCorePatch.csprojResolveAssemblyReference.cache
+C:\Users\Julitogtu\source\repos\AspnetCorePatch\AspnetCorePatch\obj\Debug\netcoreapp2.0\AspnetCorePatch.csproj.CoreCompileInputs.cache
+C:\Users\Julitogtu\source\repos\AspnetCorePatch\AspnetCorePatch\obj\Debug\netcoreapp2.0\AspnetCorePatch.AssemblyInfoInputs.cache
+C:\Users\Julitogtu\source\repos\AspnetCorePatch\AspnetCorePatch\obj\Debug\netcoreapp2.0\AspnetCorePatch.AssemblyInfo.cs
+C:\Users\Julitogtu\source\repos\AspnetCorePatch\AspnetCorePatch\obj\Debug\netcoreapp2.0\AspnetCorePatch.dll
+C:\Users\Julitogtu\source\repos\AspnetCorePatch\AspnetCorePatch\obj\Debug\netcoreapp2.0\AspnetCorePatch.pdb
