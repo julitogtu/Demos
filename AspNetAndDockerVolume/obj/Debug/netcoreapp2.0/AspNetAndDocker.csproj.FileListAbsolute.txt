@@ -1,0 +1,10 @@
+F:\Demos\aspnetcore\post\AspNetAndDocker\bin\Debug\netcoreapp2.0\AspNetAndDocker.deps.json
+F:\Demos\aspnetcore\post\AspNetAndDocker\bin\Debug\netcoreapp2.0\AspNetAndDocker.runtimeconfig.json
+F:\Demos\aspnetcore\post\AspNetAndDocker\bin\Debug\netcoreapp2.0\AspNetAndDocker.runtimeconfig.dev.json
+F:\Demos\aspnetcore\post\AspNetAndDocker\bin\Debug\netcoreapp2.0\AspNetAndDocker.dll
+F:\Demos\aspnetcore\post\AspNetAndDocker\bin\Debug\netcoreapp2.0\AspNetAndDocker.pdb
+F:\Demos\aspnetcore\post\AspNetAndDocker\obj\Debug\netcoreapp2.0\AspNetAndDocker.csproj.CoreCompileInputs.cache
+F:\Demos\aspnetcore\post\AspNetAndDocker\obj\Debug\netcoreapp2.0\AspNetAndDocker.AssemblyInfoInputs.cache
+F:\Demos\aspnetcore\post\AspNetAndDocker\obj\Debug\netcoreapp2.0\AspNetAndDocker.AssemblyInfo.cs
+F:\Demos\aspnetcore\post\AspNetAndDocker\obj\Debug\netcoreapp2.0\AspNetAndDocker.dll
+F:\Demos\aspnetcore\post\AspNetAndDocker\obj\Debug\netcoreapp2.0\AspNetAndDocker.pdb
